@@ -119,3 +119,6 @@ tools/rexm/rexm
 # CI
 emsdk-cache/
 raylib.com/
+
+build_shared/
+build_static/
